@@ -3,4 +3,8 @@ node_modules/
 .webjs_cache/
 tokens/
 .env
+<<<<<<< HEAD
 *.log
+=======
+.wwebjs_auth/session
+>>>>>>> origin/main
