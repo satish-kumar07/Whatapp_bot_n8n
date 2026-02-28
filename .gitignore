@@ -3,3 +3,4 @@ node_modules/
 .webjs_cache/
 tokens/
 .env
+.wwebjs_auth/session
